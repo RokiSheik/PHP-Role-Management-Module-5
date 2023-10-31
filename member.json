@@ -1,0 +1,38 @@
+[
+    {
+        "UserName": "roki",
+        "Email": "roki.cse02@gmail.com",
+        "Password": "827ccb0eea8a706c4c34a16891f84e7b",
+        "Role": "Admin"
+    },
+    {
+        "UserName": "manager-user",
+        "Email": "demo1@gmail.com",
+        "Password": "827ccb0eea8a706c4c34a16891f84e7b",
+        "Role": "Manager"
+    },
+    {
+        "UserName": "user",
+        "Email": "user@gmail.com",
+        "Password": "827ccb0eea8a706c4c34a16891f84e7b",
+        "Role": "User"
+    },
+    {
+        "UserName": "user1",
+        "Email": "user1@gmail.com",
+        "Password": "827ccb0eea8a706c4c34a16891f84e7b",
+        "Role": "User"
+    },
+    {
+        "UserName": "manager1",
+        "Email": "manager1@gmail.com",
+        "Password": "827ccb0eea8a706c4c34a16891f84e7b",
+        "Role": "Manager"
+    },
+    {
+        "UserName": "admin",
+        "Email": "admin@gmail.com",
+        "Password": "827ccb0eea8a706c4c34a16891f84e7b",
+        "Role": "Admin"
+    }
+]
